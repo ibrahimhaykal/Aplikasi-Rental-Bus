@@ -26,7 +26,7 @@ Berikut adalah langkah-langkah untuk menginstal dan menjalankan aplikasi ini di 
 1. **Unduh dan Instal XAMPP**: Pastikan Anda menginstal XAMPP versi 3.3.0 atau lebih tinggi.
 2. **Kloning Repositori**: Unduh atau kloning repositori proyek ini ke direktori `htdocs` di dalam folder XAMPP.
    ```bash
-   git clone https://github.com/username/rental-bus.git
+   git clone https://github.com/ibrahimhaykal/Aplikasi-Rental-Bus.git
    ```
 3. **Buat Database Secara Manual**:
     - Buka phpMyAdmin melalui `http://localhost/phpmyadmin`.
