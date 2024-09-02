@@ -46,4 +46,4 @@ Jika Anda memerlukan bantuan untuk membuat struktur tabel dalam database, saya b
 ---
 
 README ini memberikan deskripsi lengkap tentang proyek, peran dalam pengembangan, teknologi yang digunakan, serta langkah-langkah instalasi dan penggunaan, sehingga memberikan gambaran yang jelas dan profesional mengenai aplikasi rental bus yang telah dikembangkan.
-```
+
