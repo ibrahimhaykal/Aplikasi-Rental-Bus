@@ -35,7 +35,6 @@ Berikut adalah langkah-langkah untuk menginstal dan menjalankan aplikasi ini di 
 4. **Sesuaikan Konfigurasi Database**: Edit file `config.php` untuk menyesuaikan dengan konfigurasi database Anda.
 5. **Jalankan Aplikasi**: Buka browser dan akses `http://localhost/rental-bus` untuk mulai menggunakan aplikasi.
 
-```
 
 Jika Anda memerlukan bantuan untuk membuat struktur tabel dalam database, saya bisa membantu merancang SQL-nya berdasarkan kebutuhan aplikasi Anda.
 
