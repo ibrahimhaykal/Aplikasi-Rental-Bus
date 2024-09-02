@@ -1,6 +1,3 @@
-Berikut adalah versi lengkap dalam format Markdown untuk README proyek Aplikasi Rental Bus:
-
-```markdown
 # Aplikasi Rental Bus
 
 Aplikasi Rental Bus ini adalah hasil proyek kelompok yang dirancang untuk memudahkan proses penyewaan bus, baik dari sisi pengguna maupun admin. Proyek ini dikembangkan sebagai bagian dari tugas akhir untuk mata kuliah **Dasar Pengembangan Perangkat Lunak**.
